@@ -4,7 +4,9 @@ Go implement D*Lite with SDL2
 
 使用Go SDL2库实现的D*Lite算法
 
-注意，尽可能使用 go mod ，自动下载依赖库
+注意，尽可能使用 go mod ，自动下载依赖库（确保已经安装了SDL2库）
+
+推荐使用Linux或者macOS运行
 ```shell
 git clone https://github.com/josexy/dstarlite-gosdl.git
 cd dstarlite-gosdl
